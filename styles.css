@@ -1,0 +1,23 @@
+#calendar {
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+th {
+    height: 50px;
+}
+td {
+    height: 100px;
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+}
+#monthAndYear {
+    padding: 20px;
+}
+button {
+    margin: 20px 10px;
+}
